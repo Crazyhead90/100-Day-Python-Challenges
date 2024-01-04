@@ -1,0 +1,39 @@
+/Day-16-start/venv/
+/Day-18/venv/
+/Day-19/venv/
+/Day-20 - Snake/venv/
+/Day-21 - Pong/venv/
+/Day-23 - Turtle Crossing/venv/
+/Day-24 - Files, Directories and paths/venv/
+/Day-25 - CSV Data and Pandas Library/venv/
+/Day-26 - List Comprehension and the NATO Alphabet/venv/
+/Day-27 - Tkinter, args, kwargs and GUI/venv/
+/Day-28 - Tkinter, Dynamic Typing, Pomodoro GUI/venv/
+/Day-29 Password Manager GUI App/venv/
+/Day-30 - Errors, Exceptions, and JSON Data/venv/
+/Day-31 - Flash Card Programm/venv/
+/Day-32 - Send Email (smtplib) & Manage Dates (datetime)/venv/
+/Day-33 - API Endpoints & API Parameters/venv/
+/Day-34 - GUI API Quiz App/venv/
+/Day-35 - Keys, Authentication & Environments/venv/
+/Day-36 - Stock News Monitor/venv/
+/Day-37 - Habit Tracking/venv/
+/Day-38 - Workout Tracking Using Google Sheets/venv/
+/Day-39 - Cheap Flight Finder/venv/
+/Day-45 - Webscraping/venv/
+/Day-46 - Create Spotify Playlist/venv/
+/Day-47 - Amazon Price Tracker/venv/
+/Day-48 - Selenium and Game Playing Bot/venv/
+/Day-51 - Twitter internet speed complain/venv/
+/Day-52 - Instagram Followers Bot/venv/
+/Day-55 - Parsing in Flask and Higher Lower Game/venv/
+/Day-56 - Render HML files using templates/venv/
+/Day-57 - Templating with Jinja/venv/
+/Day-58 - Web Foundation Bootstrap/venv/
+/Day-59 - Clean Blog/venv/
+/Day 17/venv/
+*.cfg
+/Day54 - Web dev with Flask/Scripts/
+/Day54 - Web dev with Flask/Lib/
+*/__pycache__/*
+Day-56 - Render HML files using templates/static/images/avatar.jpg

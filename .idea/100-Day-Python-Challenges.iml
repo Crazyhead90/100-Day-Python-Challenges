@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Day 17/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-16-start/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-16-start/venv/Lib/site-packages/pip" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-16-start/venv/Lib/site-packages/pkg_resources" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-16-start/venv/Lib/site-packages/prettyTables" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-16-start/venv/Lib/site-packages/prettyTables-1.0.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-16-start/venv/Lib/site-packages/setuptools" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-16-start/venv/Lib/site-packages/setuptools-60.2.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-16-start/venv/Lib/site-packages/wheel" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-16-start/venv/Lib/site-packages/wheel-0.37.1.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-16-start/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-18/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-18/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-18/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-19/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-19/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-19/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-20 - Snake/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-20 - Snake/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-20 - Snake/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-21 - Pong/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-21 - Pong/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-21 - Pong/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-23 - Turtle Crossing/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-24 - Files, Directories and paths/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-25 - CSV Data and Pandas Library/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-26 - List Comprehension and the NATO Alphabet/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-27 - Tkinter, args, kwargs and GUI/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-28 - Tkinter, Dynamic Typing, Pomodoro GUI/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-29 Password Manager GUI App/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-30 - Errors, Exceptions, and JSON Data/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-31 - Flash Card Programm/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-32 - Send Email (smtplib) &amp; Manage Dates (datetime)/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-33 - API Endpoints &amp; API Parameters/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-34 - GUI API Quiz App/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-35 - Keys, Authentication &amp; Environments/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-36 - Stock News Monitor/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-37 - Habit Tracking/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-38 - Workout Tracking Using Google Sheets/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-39 - Cheap Flight Finder/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-45 - Webscraping/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-46 - Create Spotify Playlist/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-47 - Amazon Price Tracker/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-48 - Selenium and Game Playing Bot/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-51 - Twitter internet speed complain/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-52 - Instagram Followers Bot/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-55 - Parsing in Flask and Higher Lower Game/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-56 - Render HML files using templates/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-57 - Templating with Jinja/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-58 - Web Foundation Bootstrap/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-59 - Clean Blog/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.11" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="py.test" />
+  </component>
+</module>
